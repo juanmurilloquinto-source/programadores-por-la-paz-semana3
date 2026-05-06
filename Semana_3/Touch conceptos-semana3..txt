@@ -1,0 +1,10 @@
+CONCEPTOS BASICOS DE GIT
+
+1. Repositorio:
+Es como una carpeta del proyecto que guarda todo el historial de cambios. Ahí están todos los archivos y cada versión que he guardado. En mi tarea, el repositorio es programadores-por-la-paz donde metí mis archivos de la semana 3.
+
+2. Commit:
+Es como tomarle una foto a mi trabajo en un momento específico. Cuando hago git commit le pongo un mensaje para recordar qué cambié. Por ejemplo: "Entrega semana 3 Juan Murillo" para saber que ahí está mi tarea lista.
+
+3. Push:
+Es enviar mis commits desde mi computador hacia GitHub para que la profe los vea. Sin push, todo se queda solo en mi PC. Es el último paso para entregar la tarea: git push sube mi rama juan_murillo al repositorio.

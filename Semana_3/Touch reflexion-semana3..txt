@@ -1,0 +1,8 @@
+Es importante que los proyectos de software mantengan un registro de cambios con Git porque así no se pierde el trabajo de nadie.
+Si yo daño algo en algoritmo-verificacion.js, con Git puedo volver a la versión anterior sin empezar de cero.
+Git también permite que varias personas trabajen en el mismo proyecto sin pisarse el código. Cada uno usa su rama, como mi rama juan_murillo.
+Con git commit queda guardado quién hizo cada cambio y por qué, usando el mensaje. Eso evita peleas en el equipo.
+Si no usara Git, me pasaría como al inicio: trabajaría en la carpeta equivocada y perdería mi tarea de Programadores para la Paz.
+Además, el registro de cambios sirve como copia de seguridad. Si se me daña el PC, todo está en GitHub.
+Para entregar tareas o trabajar en empresas, Git es obligatorio porque muestra todo el proceso, no solo el resultado final.
+En resumen, Git da orden, seguridad y permite trabajar en equipo sin caos. Sin registro de cambios, los proyectos de software se vuelven un desastre.

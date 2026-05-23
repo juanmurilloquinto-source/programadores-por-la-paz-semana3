@@ -1,0 +1,8 @@
+Para un desarrollador la terminal es importante porque ahorra tiempo y da control total sobre el proyecto. 
+Con pwd sé dónde estoy parado y con ls veo qué archivos tengo, así no me confundo entre carpetas. 
+Cuando necesito crear un archivo nuevo como algoritmo-verificacion.js uso touch y con mkdir hago carpetas. 
+Todo eso es más rápido que usar el mouse y buscar carpeta por carpeta. 
+También es clave para Git: para hacer git add, git commit y git push necesito la terminal. 
+Sin terminal no podría colaborar con otros ni entregar mi tarea de Programadores para la Paz. 
+Un desarrollador que solo usa el explorador de archivos trabaja más lento y comete más errores. 
+Por eso, aprender cd, ls, pwd y mkdir es el primer paso para ser un programador real.

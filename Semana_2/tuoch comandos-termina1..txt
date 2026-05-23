@@ -1,0 +1,7 @@
+Comandos que utilize en esta activida:
+cd
+mkdir
+ls
+git
+touch
+pwd
